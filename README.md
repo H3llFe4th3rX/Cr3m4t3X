@@ -12,6 +12,10 @@ trust ive got this.
 
   <p align="center">
 my info
+
+
+  <p align="center">
+info ⚡︎ info ⚡︎ info
   
   <p align="center">
   <img width="600" height="80" src="https://media.discordapp.net/attachments/1287942798242222182/1357460563117998131/tumblr_e06a521ecadffdbbd4c4513bf4798942_63099cb7_2048.png?ex=67f0492a&is=67eef7aa&hm=228903c60f74cd39063fb3851f155398615dc690f4e8f544c907c6c9c8b7a555&=&format=webp&quality=lossless&width=1760&height=132">
